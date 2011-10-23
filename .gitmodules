@@ -1,3 +1,6 @@
 [submodule "sites/all/modules/sassy"]
 	path = sites/all/modules/sassy
 	url = http://git.drupal.org/project/sassy.git
+[submodule "sites/genderisatextfield.com"]
+	path = sites/genderisatextfield.com
+	url = git@github.com:qemistry/Gender-is-a-textfield.git
