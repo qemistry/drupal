@@ -4,3 +4,6 @@
 [submodule "sites/genderisatextfield.com"]
 	path = sites/genderisatextfield.com
 	url = git@github.com:qemistry/Gender-is-a-textfield.git
+[submodule "sites/learningviolin.qemistry.us"]
+	path = sites/learningviolin.qemistry.us
+	url = git@github.com:qemistry/learningviolin.git
