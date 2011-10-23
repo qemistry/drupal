@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/sassy"]
+	path = sites/all/modules/sassy
+	url = http://git.drupal.org/project/sassy.git
