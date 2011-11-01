@@ -13,3 +13,6 @@
 [submodule "sites/all/libraries/plupload"]
 	path = sites/all/libraries/plupload
 	url = https://github.com/moxiecode/plupload.git
+[submodule "sites/all/libraries/tinymce"]
+	path = sites/all/libraries/tinymce
+	url = https://github.com/tinymce/tinymce.git
