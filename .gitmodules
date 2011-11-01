@@ -19,3 +19,6 @@
 [submodule "sites/all/libraries/jquery-mobile"]
 	path = sites/all/libraries/jquery-mobile
 	url = https://github.com/jquery/jquery-mobile.git
+[submodule "sites/all/modules/context"]
+	path = sites/all/modules/context
+	url = http://git.drupal.org/project/context.git
