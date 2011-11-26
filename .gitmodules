@@ -55,3 +55,6 @@
 [submodule "sites/all/themes/omega"]
 	path = sites/all/themes/omega
 	url = http://git.drupal.org/project/omega.git
+[submodule "sites/all/modules/media"]
+	path = sites/all/modules/media
+	url = http://git.drupal.org/project/media.git
