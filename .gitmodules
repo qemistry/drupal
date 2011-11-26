@@ -49,3 +49,6 @@
 [submodule "sites/all/modules/features"]
 	path = sites/all/modules/features
 	url = http://git.drupal.org/project/features.git
+[submodule "sites/all/modules/file_entity"]
+	path = sites/all/modules/file_entity
+	url = http://git.drupal.org/project/file_entity.git
