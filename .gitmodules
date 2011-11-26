@@ -37,3 +37,6 @@
 [submodule "sites/all/modules/delta"]
 	path = sites/all/modules/delta
 	url = http://git.drupal.org/project/delta.git
+[submodule "sites/all/modules/devel"]
+	path = sites/all/modules/devel
+	url = http://git.drupal.org/project/devel.git
