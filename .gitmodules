@@ -64,3 +64,6 @@
 [submodule "sites/all/modules/metatag"]
 	path = sites/all/modules/metatag
 	url = http://git.drupal.org/project/metatag.git
+[submodule "sites/all/modules/omega_tools"]
+	path = sites/all/modules/omega_tools
+	url = http://git.drupal.org/project/omega_tools.git
