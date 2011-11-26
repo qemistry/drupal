@@ -46,3 +46,6 @@
 [submodule "sites/all/modules/examples"]
 	path = sites/all/modules/examples
 	url = http://git.drupal.org/project/examples.git
+[submodule "sites/all/modules/features"]
+	path = sites/all/modules/features
+	url = http://git.drupal.org/project/features.git
