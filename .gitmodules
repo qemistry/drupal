@@ -43,3 +43,6 @@
 [submodule "sites/all/modules/entity"]
 	path = sites/all/modules/entity
 	url = http://git.drupal.org/project/entity.git
+[submodule "sites/all/modules/examples"]
+	path = sites/all/modules/examples
+	url = http://git.drupal.org/project/examples.git
