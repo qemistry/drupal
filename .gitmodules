@@ -25,3 +25,6 @@
 [submodule "sites/all/modules/admin_menu"]
 	path = sites/all/modules/admin_menu
 	url = http://git.drupal.org/project/admin_menu.git
+[submodule "sites/all/modules/contextual_flyout_links"]
+	path = sites/all/modules/contextual_flyout_links
+	url = jessebeach@git.drupal.org:project/contextual-flyout-links.git
