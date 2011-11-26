@@ -40,3 +40,6 @@
 [submodule "sites/all/modules/devel"]
 	path = sites/all/modules/devel
 	url = http://git.drupal.org/project/devel.git
+[submodule "sites/all/modules/entity"]
+	path = sites/all/modules/entity
+	url = http://git.drupal.org/project/entity.git
