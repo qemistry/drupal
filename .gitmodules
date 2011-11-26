@@ -58,3 +58,6 @@
 [submodule "sites/all/modules/media"]
 	path = sites/all/modules/media
 	url = http://git.drupal.org/project/media.git
+[submodule "sites/all/modules/mobile_tools"]
+	path = sites/all/modules/mobile_tools
+	url = http://git.drupal.org/project/mobile_tools.git
