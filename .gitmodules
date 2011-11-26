@@ -61,3 +61,6 @@
 [submodule "sites/all/modules/mobile_tools"]
 	path = sites/all/modules/mobile_tools
 	url = http://git.drupal.org/project/mobile_tools.git
+[submodule "sites/all/modules/metatag"]
+	path = sites/all/modules/metatag
+	url = http://git.drupal.org/project/metatag.git
