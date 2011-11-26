@@ -52,3 +52,6 @@
 [submodule "sites/all/modules/file_entity"]
 	path = sites/all/modules/file_entity
 	url = http://git.drupal.org/project/file_entity.git
+[submodule "sites/all/themes/omega"]
+	path = sites/all/themes/omega
+	url = http://git.drupal.org/project/omega.git
