@@ -28,3 +28,6 @@
 [submodule "sites/all/modules/contextual_flyout_links"]
 	path = sites/all/modules/contextual_flyout_links
 	url = jessebeach@git.drupal.org:project/contextual-flyout-links.git
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = http://git.drupal.org/project/ctools.git
