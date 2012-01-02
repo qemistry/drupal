@@ -41,3 +41,6 @@
  */
 $sites['genderisatextfield.dev'] = 'genderisatextfield.com';
 $sites['learningviolin.dev'] = 'learningviolin.qemistry.us';
+$sites['qemistry.dev'] = 'qemistry.us';
+$sites['the.qemists.dev'] = 'qemistry.us';
+$sites['inclusion.dev'] = 'qemistry.us';
